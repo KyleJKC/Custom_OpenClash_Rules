@@ -5,3 +5,5 @@
 
 # 爱壹帆
 DOMAIN-SUFFIX,iyf.tv
+# IPv6 测试
+DOMAIN-SUFFIX,test-ipv6.com
