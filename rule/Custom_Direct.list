@@ -4,4 +4,4 @@
 # 强制直连列表
 
 # IPv6 测试
-#DOMAIN-SUFFIX,testipv6.cn
+DOMAIN-SUFFIX,testipv6.cn
